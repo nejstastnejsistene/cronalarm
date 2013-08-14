@@ -1,4 +1,4 @@
 #!/bin/sh
 
 export DISPLAY=:0.0
-gnome-terminal -e "cvlc http://www.youtube.com/watch?v=DQvG2SMVl84"
+gnome-terminal -e "cvlc --play-and-exit '/home/peter/code/cronalarm/01 - Keep Yourself Alive.flac'"
